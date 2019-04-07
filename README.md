@@ -3,4 +3,4 @@ This was a project for my Embedded Systems class where I built a game using almo
 
 Was built in eclipse and includes the following peropherals: keypad, speaker, LCD, LED's, and rotary encoder.
 
-This is a game in which the objective is to match the randomly generated codes and get 10 right codes in a row. 
+This is a game in which the objective is to match the randomly generated codes and get 5 right codes in a row. 
